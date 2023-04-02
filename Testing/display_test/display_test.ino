@@ -23,7 +23,7 @@ void setup() {
   display.begin();
   display.setTextSize(2);
   display.setCursor( 5 , 40 );
-  display.println("   Hii");
+  display.println("   Hii Saurabh");
 
   //display corners
   display.drawPixel(2, 1, WHITE);
